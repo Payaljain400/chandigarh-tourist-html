@@ -1,0 +1,21 @@
+
+
+	body
+	{
+		background-image: url(Tourism.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	#a1
+	{
+		font-size: 70px;
+		font-style: oblique;
+	}
+	#common
+	{
+		width: 50%;
+		height:300%;
+		margin: 2px 2px;
+
+	}
+
