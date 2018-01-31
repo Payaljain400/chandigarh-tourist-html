@@ -1,0 +1,115 @@
+
+
+	#indexbody
+	{
+		background-image: url(../images/chandigarh.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	#indexheading
+	{
+		font-size: 70px;
+		font-style: oblique;
+	}
+	
+    #rockbody
+	{
+        background-color: peachpuff;
+	}
+	#rockheading
+	{
+		font-size: 70px;
+		font-style: italic;
+
+	}
+	#touristbody
+	{
+		background-color: skyblue;
+	}
+	#touristheading
+	{
+		font-size: 50px;
+		text-transform: uppercase;
+		color: darkblue;
+		font-style: oblique;
+	}
+
+#touristanchor
+{
+	font-size: 30px;
+	text-decoration: none;
+
+
+}
+	#touristanchor:hover{
+		background-color: #FAEBD7;
+	}
+	
+	#sukhnabody
+	{
+		background-image: url(../images/sukhnalake.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+        background-color: mistyrose;
+	}
+	#sukhnaheading
+	{
+		font-size: 70px;
+		font-style: inherit;
+
+
+	}
+	#elantebody
+	{
+        background-color: bisque;
+	}
+	#elanteheading
+	{
+		font-size: 70px;
+		font-style: italic;
+		
+
+	}
+	#elanteimage{
+		margin: 3px 0;
+		height:180px; 
+		width:200px;
+	}
+	#sectorbody
+	{
+		background-image: url(../images/sector17.jpg) ;
+		background-repeat: no-repeat;
+		background-size: cover;
+
+        
+	}
+	#sectorheading
+	{
+		color: yellow;
+		font-size: 70px;
+		font-style: unset;
+
+
+	}
+	#sectorpara{
+		font-size: 20px ;
+		 color:white; 
+		 text-align: justify;
+	}
+	#para
+	{
+		font-size: 20px ;
+		text-align: justify;
+	}
+	#sukhnapara{
+		font-size: 20px ;
+		 color:white; 
+		 text-align: justify;
+	}
+    #para1
+   {
+        font-size: 22px ;
+		text-align: justify;
+	
+
+   }
